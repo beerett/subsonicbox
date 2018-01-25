@@ -1,0 +1,102 @@
+* {
+font-size:12px;
+font-family:Calibri;
+}
+body {
+background:#000;
+color:#fff;
+margin:0px;
+padding:0px;
+
+}
+#container {
+width:700px;
+margin:0 auto;
+padding:0px;
+
+}
+#main {
+margin:10px;
+border:1px solid #545454;
+padding:10px;
+width:550px;
+
+}
+#menu {
+width:550px;
+margin:10px;
+border:1px solid #545454;
+padding:10px;
+height:40px;
+}
+#menu button {
+float:right;
+}
+#status {
+margin:10px;
+border:1px solid #545454;
+padding:10px;
+width:550px;
+height:100px;
+}
+#setupd {
+display:none;
+
+}
+.line {
+height:20px;
+padding:2px;
+padding-right:0px;
+
+}
+#folderc {
+display:none;
+}
+#folders {
+width:350px;
+}
+#warn {
+display:none;
+}
+#warn input {
+float:right;
+}
+#warn label {
+float:left;
+}
+#sform #fields input {
+float:right;
+width:300px;
+}
+#profsetup input {
+float:right;
+margin-right:200px;
+}
+#profsetup .line {
+height:20px;
+padding:2px;
+padding-right:0px;
+margin-left:10px;
+float:left;
+}
+.music,.video {
+margin-right:2px;
+margin-left:8px;
+}
+.text {
+float:left;
+border-bottom:1px solid #545454;
+
+}
+#hint {
+height:5px;
+width:120px;
+background:#ffb040;
+}
+hr {
+margin-top:5px;
+margin-bottom:5px;
+}
+#profholder {
+height:150px;
+}
